@@ -1,0 +1,1 @@
+if (keyboard_check_pressed(ord("O")) || keyboard_check_pressed(ord("0"))) outline = !outline;
