@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "05847b3b-1d93-44f0-a4a4-c9ca10b2de12",
-            "Value": {
-                "id": "8da7fa7c-5e25-4151-908f-ec01905f8ddc",
-                "resourcePath": "scripts\\line_perpendicular\\line_perpendicular.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "09475499-2718-4c3e-97eb-3ddcaaafde99",
             "Value": {
                 "id": "aad9e185-55c7-4ea4-a580-88b8c7967b6c",
@@ -345,7 +337,6 @@
     ],
     "script_order": [
         "7e75927a-1010-49a1-a41c-7e6ff94b9764",
-        "05847b3b-1d93-44f0-a4a4-c9ca10b2de12",
         "2ecd7146-bea8-430c-aa3c-60e1fbfc23d6",
         "ab89e3ff-e0d0-4dbd-a5fe-6521bf27b80e"
     ],
