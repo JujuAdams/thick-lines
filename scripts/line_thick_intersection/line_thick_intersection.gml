@@ -30,8 +30,8 @@ if (_a_length == 0)
     else
     {
         //Otherwise return the perpendicular to P2->P3
-        _b_length /= _w;
-        return [-_by / _b_length, _bx / _b_length];
+        _b_length = _w / _b_length;
+        return [-_by*_b_length, _bx*_b_length];
     }
 }
 
